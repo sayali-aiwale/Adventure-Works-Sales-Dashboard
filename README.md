@@ -28,7 +28,7 @@ This project presents an interactive Power BI dashboard built using the Adventur
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Adventure.png)
 
 ## Project Outcome
 The dashboard helps stakeholders monitor business performance, identify growth opportunities, and make informed decisions using interactive and data-driven insights.
